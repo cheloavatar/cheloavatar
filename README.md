@@ -21,4 +21,7 @@
 <a href="https://www.instagram.com/t800alejandro/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
 <a href="https://www.youtube.com/cheloavatar"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 <!--END_SECTION:activity-->
+<!--START_SECTION:activity-->
+<b><h3>Technologies</h3></b>
 
+<!--END_SECTION:activity-->
