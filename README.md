@@ -38,6 +38,6 @@
 <!--END_SECTION:activity-->
 <!--START_SECTION:activity-->
 <b><h3>Support Me</h3></b>
-<a href="https://www.buymeacoffee.com/t800alejandro"><img src="https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMi8wNS9PQUgxRWZrZ00ySzNzTFRHLmpwZ0AzMDB3XzBlLndlYnA=&creator=Alejandro+Garc%C3%ADa&design_code=1&design_color=%23ff813f&slug=t800alejandro"/></a>
+<a href="https://www.buymeacoffee.com/t800alejandro"><img width="256px" src="https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMi8wNS9PQUgxRWZrZ00ySzNzTFRHLmpwZ0AzMDB3XzBlLndlYnA=&creator=Alejandro+Garc%C3%ADa&design_code=1&design_color=%23ff813f&slug=t800alejandro"/></a>
 
 <!--END_SECTION:activity-->
