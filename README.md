@@ -4,7 +4,7 @@
 <table>
 <tr>
   <td valign="center">
-    🎓 I am **Telematics engineer**.
+    🎓 I am <b>Telematics engineer</b>.
     📜 My favorite framework is **Laravel**.
     🤖 I am currently learning **Docker** and also interested in **Zentyal**.
     🎯 My Goal is Build a educative video game with **Unity 3D** and **GameMaker Stdudio**.
