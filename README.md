@@ -24,6 +24,6 @@
 <!--START_SECTION:activity-->
 <b><h2>Technologies</h2></b>
 <b><h3>Languages</h3></b>
-<a href="#"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a><a href="#"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a><a href="#"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><img src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
 <b><h3>DevOps & Cloud Tools</h3></b>
 <!--END_SECTION:activity-->
