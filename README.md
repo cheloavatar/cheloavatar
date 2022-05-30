@@ -13,5 +13,5 @@
   </td>
 </tr>
 </table>
-<b>Connect With Me</b>
+<b><h3>Connect With Me</h3></b>
 <hr>
