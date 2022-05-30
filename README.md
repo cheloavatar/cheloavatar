@@ -1,6 +1,6 @@
-<h3><b>Hi, I'm Alejandro</b></h3><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="48px">
+<h3><b>Hi, I'm Alejandro</b></h3>
 
-**About Me:**
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="48px"> **About Me:**
 <table>
 <tr>
   <td valign="center">
