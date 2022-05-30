@@ -34,5 +34,5 @@
 <a href="#"><img src="https://img.icons8.com/glyph-neue/64/000000/github.png"/></a>
 <a href="#"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 <a href="#"><img src="https://img.icons8.com/color/48/000000/trello.png"/></a>
-<a href="#"></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/gitlab.png"/></a>
 <!--END_SECTION:activity-->
