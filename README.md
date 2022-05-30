@@ -23,7 +23,7 @@
 <!--END_SECTION:activity-->
 <!--START_SECTION:activity-->
 <b><h2>Technologies</h2></b>
-<b><h2>Languages</h2></b>
+<b><h3>Languages</h3></b>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
-<b><h2>DevOps & Cloud Tools</h2></b>
+<b><h3>DevOps & Cloud Tools</h3></b>
 <!--END_SECTION:activity-->
