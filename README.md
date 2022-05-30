@@ -14,7 +14,8 @@
 </tr>
 </table>
 
-<hr>
+
 <!--START_SECTION:activity-->
 <b><h3>Connect With Me</h3></b>
+<hr>
 <!--END_SECTION:activity-->
