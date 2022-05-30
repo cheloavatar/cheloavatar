@@ -1,4 +1,4 @@
-<h3><b>Hi, I'm Alejandro</b></h3>
+<h1><b>Hi, I'm Alejandro</b></h1>
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="48px"> **About Me:**
 <table>
@@ -23,5 +23,6 @@
 <!--END_SECTION:activity-->
 <!--START_SECTION:activity-->
 <b><h3>Technologies</h3></b>
+<hr>
 
 <!--END_SECTION:activity-->
