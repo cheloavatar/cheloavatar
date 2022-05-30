@@ -31,7 +31,7 @@
 <a href="#"><img src="https://img.icons8.com/fluency/48/000000/figma.png"/></a>
 <a href="#"><img src="https://img.icons8.com/ios/50/000000/notion.png"/></a>
 <a href="#"><img src="https://img.icons8.com/color/48/000000/slack.png"/></a>
+<a href="#"><img src="https://img.icons8.com/glyph-neue/64/000000/github.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 <a href="#"></a>
-<a href="#"></a>
-
 <!--END_SECTION:activity-->
