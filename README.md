@@ -19,6 +19,6 @@
 <b><h3>Connect With Me</h3></b>
 <a href="https://www.linkedin.com/in/t800alejandro/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="https://www.instagram.com/t800alejandro/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
-<a href="https://www.youtube.com/cheloavatar"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+<a href="https://www.youtube.com/cheloavatar"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 <!--END_SECTION:activity-->
-<a target="_blank" href="https://icons8.com/icon/p4rU35mvmXMQ/youtube">YouTube</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
