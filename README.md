@@ -17,6 +17,6 @@
 
 <!--START_SECTION:activity-->
 <b><h3>Connect With Me</h3></b>
-<hr>
+<h>
 <a href="https://www.linkedin.com/in/t800alejandro/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <!--END_SECTION:activity-->
