@@ -27,4 +27,11 @@
 <a href="#"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a><a href="#"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a><a href="#"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a><a href="#"><img src="https://img.icons8.com/fluency/48/000000/laravel.png"/></a>
 <b><h3>DevOps & Cloud Tools</h3></b>
 <a href="#"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/docker-container.png"/></a>
+<a href="#"><img src="https://img.icons8.com/fluency/48/000000/figma.png"/></a>
+<a href="#"><img src="https://img.icons8.com/ios/50/000000/notion.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/slack.png"/></a>
+<a href="#"></a>
+<a href="#"></a>
+
 <!--END_SECTION:activity-->
