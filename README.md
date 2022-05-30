@@ -16,13 +16,18 @@
 
 
 <!--START_SECTION:activity-->
-<b><h3>Connect With Me</h3></b>
+<b><h2>Connect With Me</h2></b>
 <a href="https://www.linkedin.com/in/t800alejandro/" ><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="https://www.instagram.com/t800alejandro/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
 <a href="https://www.youtube.com/cheloavatar"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 <!--END_SECTION:activity-->
 <!--START_SECTION:activity-->
-<b><h3>Technologies</h3></b>
+<b><h2>Technologies</h2></b>
 <hr>
-
+<b><h2>Languages</h2></b>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
+<b><h2>DevOps & Cloud Tools</h2></b>
 <!--END_SECTION:activity-->
