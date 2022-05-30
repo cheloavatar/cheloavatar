@@ -17,8 +17,8 @@
 
 <!--START_SECTION:activity-->
 <b><h3>Connect With Me</h3></b>
-<a href="https://www.linkedin.com/in/t800alejandro/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="https://www.instagram.com/t800alejandro/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
-<a href="https://www.youtube.com/cheloavatar" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href="https://www.linkedin.com/in/t800alejandro/" ><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="https://www.instagram.com/t800alejandro/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+<a href="https://www.youtube.com/cheloavatar"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 <!--END_SECTION:activity-->
 
