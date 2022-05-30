@@ -13,5 +13,8 @@
   </td>
 </tr>
 </table>
-<b><h3>Connect With Me</h3></b>
+
 <hr>
+<!--START_SECTION:activity-->
+<b><h3>Connect With Me</h3></b>
+<!--END_SECTION:activity-->
