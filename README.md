@@ -1,6 +1,7 @@
 <h1><b>Hi, I'm Alejandro</b></h1>
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="16px"/> **About Me:**
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="16px"/>
+**About Me:**
 <table>
 <tr>
   <td valign="center">
