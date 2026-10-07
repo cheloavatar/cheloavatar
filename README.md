@@ -18,19 +18,25 @@
 ## 👨‍💻 Sobre mí
 
 ```yaml
-nombre:     Alejandro García
-rol:        Ingeniero en Telemática · Programador Analista
-trabajo:    Cibernética Colima
-ubicación:  Villa de Álvarez, Colima, México 🇲🇽
-enfoque:    Sistemas web internos, automatización y gestión de información
+nombre:      Alejandro García
+rol:         Ingeniero en Telemática · Programador Analista
+trabajo:     Cibernética Colima
+ubicación:   Villa de Álvarez, Colima, México 🇲🇽
+enfoque:     Desarrollo full stack, infraestructura de servidores y automatización
+desarrollo:  [Python, Flask, Laravel, React, MySQL, SQLite]
+infra:       [Linux, Zentyal, OpenMediaVault, Virtualización, aaPanel, Nginx]
 aprendiendo: [Docker, CI/CD, IA aplicada a productividad]
-fuera_del_código: 🏋️ Bodybuilding · 🎮 Desarrollo de videojuegos educativos
+fuera_del_código: 🏋️ Bodybuilding · 🎮 Videojuegos educativos
 ```
 
-- 🏛️ Desarrollo **sistemas internos** para oficinas: atención ciudadana, bitácoras de actividades, gestión de correo y reportes.
-- 🔐 Me importa la **seguridad**: cifrado de datos, auditoría y control de acceso por roles.
-- ⚙️ Despliego en **Linux** (aaPanel, PythonAnywhere) y trabajo con bases **MySQL / SQLite**.
-- 🎯 Proyecto personal: videojuego educativo con **Unity 3D** y **GameMaker Studio**.
+Soy ingeniero en Telemática y combino dos mundos: **el desarrollo de software** y **la administración de infraestructura**. Me gusta construir sistemas completos, desde el servidor donde corren hasta la interfaz que usa la gente.
+
+- 🏛️ **Sistemas institucionales:** desarrollo aplicaciones internas para oficinas de gobierno: atención ciudadana, bitácoras de actividades, gestión colaborativa de correo, mensajería corporativa y tableros de reportes.
+- 🔐 **Seguridad primero:** cifrado de datos sensibles, auditoría de acciones, control de acceso por roles y buenas prácticas en el manejo de información.
+- 🖥️ **Infraestructura y redes:** administro servidores **Linux**, controladores de dominio y servicios de red con **Zentyal**, almacenamiento en red (NAS) y respaldos con **OpenMediaVault**, y entornos de **virtualización** para separar y aprovechar mejor los servicios.
+- 🚀 **Despliegue:** publico mis aplicaciones en **aaPanel**, **Nginx** y **PythonAnywhere**, con bases **MySQL / MariaDB / SQLite** y respaldos automáticos.
+- 🤖 **Automatización:** scripts y herramientas que ahorran trabajo repetitivo: transcripción de audio a texto, reportes y migración de datos.
+- 🎯 **Proyecto personal:** un videojuego educativo con **Unity 3D** y **GameMaker Studio**.
 
 ---
 
@@ -45,6 +51,14 @@ fuera_del_código: 🏋️ Bodybuilding · 🎮 Desarrollo de videojuegos educat
 **Bases de datos, DevOps y herramientas**
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,linux,nginx,docker,git,github,vscode,figma&perline=9" />
+
+**Infraestructura y servidores**
+
+<img src="https://img.shields.io/badge/Zentyal-E95420?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenMediaVault-5DACDF?style=for-the-badge&logo=openmediavault&logoColor=white"/>
+<img src="https://img.shields.io/badge/Virtualizaci%C3%B3n-6D4AFF?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+<img src="https://img.shields.io/badge/aaPanel-20A53A?style=for-the-badge&logo=serverless&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
 
 **Videojuegos**
 
@@ -63,7 +77,7 @@ fuera_del_código: 🏋️ Bodybuilding · 🎮 Desarrollo de videojuegos educat
 | 🗂️ **Ciberbit** | Bitácora y control de actividades de unidades de ciberseguridad. | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
 | 🎙️ **Transcriber** | Convierte audio y video en texto de forma local; versión web y de escritorio. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) |
 | 💰 **Kuantica** | Aplicación de finanzas personales. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| 📊 **Productividad Cibernética** | Tablero de métricas de productividad del área. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| 💬 **Matra** | Mensajería corporativa multiplataforma: chat en tiempo real con WebSocket, cliente web y de escritorio (Electron). | ![Python](https://img.shields.io/badge/-Flask-000?logo=flask) ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white) |
 
 > 🔒 La mayoría son repositorios privados por tratarse de sistemas institucionales.
 
