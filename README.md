@@ -9,7 +9,6 @@
   <a href="https://bio.link/t800alejandro"><img src="https://img.shields.io/badge/bio.link-111111?style=for-the-badge&logo=linktree&logoColor=white"/></a>
   <a href="https://www.youtube.com/cheloavatar"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.instagram.com/t800alejandro/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=cheloavatar&style=for-the-badge&color=2c5364&label=VISITAS"/>
 </p>
 
 </div>
